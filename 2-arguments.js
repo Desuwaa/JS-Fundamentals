@@ -6,5 +6,5 @@ if (arrLenght < 3) {
 } else if (arrLenght === 3) {
     console.log("Argument found")
 } else {
-    console.log("Arguments Found")
+    console.log("Arguments found")
 }
