@@ -7,7 +7,7 @@ if (!convertedFirstArgument) {
   for (let i = 0; i < convertedFirstArgument; i++) { 
     let square = "";  
     for (let j = 0; j < convertedFirstArgument; j++) { 
-      square += "x";
+      square += "X";
     }
     console.log(square);
   }
