@@ -52,4 +52,13 @@ Write a script that prints the first argument passed to it:
 - You are not allowed to use `var`
 - You are not allowed to use `length`
 
+# Task 4
+Create a sentence
+
+## Task Description
+Write a script that prints two arguments passed to it, in the following format: `is`
+
+### Requirements
+- You must use `console.log(...)` to print all output
+- You are not allowed to use `var`
 
